@@ -1,9 +1,9 @@
 {
   "name": "Mabbaca Quran - Tempat Membaca Al Quran Secara Online Lengkap Dengan Bacaan Latin dan Terjemahan Bahasa Indonesia",
   "short_name": "Mabbaca Quran",
-  "start_url": "https://mabbaca-quran.blogspot.com/?m=1",
+  "start_url": "https://www.mabbacaquran.id/?m=1",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#ffffff",
   "theme_color": "#3367d6",
   "description": "Tempat Membaca Al Quran Secara Online lengkap dengan latin dan terjemah Indonesia.",
   "icons": [{
